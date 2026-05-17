@@ -55,7 +55,7 @@ The predictions were also compared visually with actual flight prices.
 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/TotoFromParadiso/FlightPricePrediction-Using-Python-and-Machine-Learning/tree/main>
 ```
 
 2. Install the required libraries
